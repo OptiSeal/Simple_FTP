@@ -21,4 +21,4 @@ such as pwd, granting a greater understanding of which opcode was being generate
 sent and the code readability. ASCII opcodes only deal with English-based
 characters, limiting the program to English-based code/coders.
 
-# Authors: Jarryd Kaczmarczyk & Daniel Dobson
+# Authors: Daniel Dobson & Jarryd Kaczmarczyk
