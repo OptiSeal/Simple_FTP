@@ -1,0 +1,10 @@
+Parent exiting...
+New session created for child.
+Children processes caught
+Server pid = 2732
+Socket setup successful. Using socket 4
+New client connected
+Opcode P received from client with a total of 2 bytes recieved
+pwd command received. Getting current working directory...
+Current working directory /media/sf_I_DRIVE/SimpleFTP/Server returned to client
+No data read from client. Connection from client stopped.
