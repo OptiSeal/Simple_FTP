@@ -1,5 +1,4 @@
 # Simple_FTP - A Simple File Transfer Protocol
-# Authors: Jarryd Kaczmarczyk & Daniel Dobson
 
 The simple FTP program uses standard socket programming
 functions such as, connects, binds, listens, accepts, reads, and writes to connect to a
@@ -21,3 +20,5 @@ but it is efficient. An alternative would be to use the shortened version of the
 such as pwd, granting a greater understanding of which opcode was being generated and
 sent and the code readability. ASCII opcodes only deal with English-based
 characters, limiting the program to English-based code/coders.
+
+# Authors: Jarryd Kaczmarczyk & Daniel Dobson
